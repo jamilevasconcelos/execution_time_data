@@ -1,6 +1,8 @@
 # Execution time measured for EVT experiments
 
-This repository contains the codes and data with execution times of 11 different programs. The samples were collected in a Raspberry Pi environment, under the influence of variations in wifi, ethernet and core affinity. EVT was applied on the measured samples. This experiment was part of the research entitled "Experimental evaluation of the use of extreme value statistics in determining execution time limits for real-time systems projects", master's project by Jamile Vasconcelos, defended in 2023, at the Institute of Computer Science of the Federal University of Bahia, Brazil, under the supervision of Prof. George Lima.
+This repository contains the codes and data with execution times of 11 different programs. The samples were collected in a Raspberry Pi environment, under the influence of variations in wifi, ethernet and core affinity. EVT was applied on the measured samples. This experiment was part of the research entitled "Experimental evaluation of the use of extreme value statistics in determining execution time limits for real-time systems projects", master's project by Jamile Vasconcelos, defended in 2023, at the Institute of Computer Science of the Federal University of Bahia (UFBA), Brazil, under the supervision of Prof. George Lima. 
+
+This work have been partially funded by CAPES (Brazil) and by the Inria (France)-UFBA Associated Teams Program under the Kepler project.
 
 
 ## 1. FILES
